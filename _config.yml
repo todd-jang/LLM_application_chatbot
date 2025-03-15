@@ -1,0 +1,10 @@
+---
+title: Llm Application Chatbot
+timezone: Asia/Seoul
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
